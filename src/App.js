@@ -10,7 +10,7 @@ const App = () => {
 </nav>
 <main>
     <p>
-      qk-sandbox is working!
+    qk-let go
     </p>
   </main>
     </div>
